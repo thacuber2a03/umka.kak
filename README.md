@@ -4,7 +4,7 @@ an [Umka](https://github.com/vtereshkov/umka-lang) syntax highlighter for [Kakou
 
 ## installation
 
-### with plug.kak
+### with [plug.kak](https://github.com/andreyorst/plug.kak)
 
 ```kak
 plug 'thacuber2a03/umka.kak'
